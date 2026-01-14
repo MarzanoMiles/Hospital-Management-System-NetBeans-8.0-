@@ -1,0 +1,32 @@
+
+╔════════════════════════════════════════════════════╗
+║       HOSPITAL RESERVATION CONFIRMATION           ║
+╚════════════════════════════════════════════════════╝
+
+Reservation ID: RES003
+Date Generated: Sat Jan 10 07:47:07 CST 2026
+
+PATIENT INFORMATION:
+─────────────────────────────────────────────────────
+Patient ID: P003
+Name: Nakano Haze
+Phone: 09955235054
+Email: mag@gmail.com
+
+APPOINTMENT DETAILS:
+─────────────────────────────────────────────────────
+Type: Admission
+Doctor: Dr. dr.juan
+Date & Time: 2026-01-10 08:00
+Status: Pending
+Notes: Reason: dilaw
+
+IMPORTANT REMINDERS:
+─────────────────────────────────────────────────────
+• Please arrive 15 minutes before your appointment
+• Bring a valid ID and insurance card (if applicable)
+• Cancel at least 24 hours in advance if needed
+• Contact us at hospital@example.com for questions
+
+Thank you for choosing our hospital!
+════════════════════════════════════════════════════
